@@ -12,7 +12,7 @@ Ví dụ:
 
 ```text
 SONARQUBE_ORG = "antoqqqqq"
-SONARQUBE_TOKEN = "146fb3cdf98e88888065a9ddedfff9f86918c703"
+SONARQUBE_TOKEN = "1xxxxxxx"
 ```
 
 ---
@@ -47,7 +47,7 @@ Tạo file `mcp.json` trong project của bạn với nội dung:
       ],
       "env": {
         "SONARQUBE_ORG": "antoqqqqq",
-        "SONARQUBE_TOKEN": "146fb3cdf98e88888065a9ddedfff9f86918c703",
+        "SONARQUBE_TOKEN": "14xxxxx14xxxxx",
         "SONARQUBE_IDE_PORT": "64120"
       }
     }
